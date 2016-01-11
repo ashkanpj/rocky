@@ -244,108 +244,105 @@ Our channels
     help_text = [[
 Commands list :
 
-!kick [username|id]
+!kick [username|id] برای اخراج کردن
 You can also do it by reply
 
-!ban [ username|id]
+!ban [ username|id]برای بن کردن
 You can also do it by reply
 
-!unban [id]
+!unban [id] برای ان بن کردن
 You can also do it by reply
 
-!who
+!who لیست اعضا
 Members list
 
-!modlist
+!modlist لیست مدیران
 Moderators list
 
-!promote [username]
+!promote [username] دادن مقام
 Promote someone
 
-!demote [username]
+!demote [username] گرفتن مقام
 Demote someone
 
-!kickme
+!kickme اخراج خود
 Will kick user
 
-!about
+!about اطلاعات گروه
 Group description
 
-!setphoto
+!setphoto گذاشتن عکس روی گروه
 Set and locks group photo
 
-!setname [name]
+!setname [name]گذاشتن اسم روی گروه
 Set group name
 
-!rules
+!rules فوانین
 Group rules
 
-!id
+!id کد شما و گروه
 return group id or user id
 
-!help
+!help برای کمک گرفتن
 
-!lock [member|name|bots]
+!lock [member|name|bots]  قفل کردن اعضا_اسم گروه_ربات
 Locks [member|name|bots] 
 
-!unlock [member|name|photo|bots]
+!unlock [member|name|photo|bots]برداشتن قفل
 Unlocks [member|name|photo|bots]
 
-!set rules <text>
+!set rules <text> گزاشتن قوانین
 Set <text> as rules
 
-!set about <text>
+!set about <text> گذاشتن اطلاعات
 Set <text> as about
 
-!settings
+!settings تنظیمات گروه
 Returns group settings
 
-!newlink
+!newlink لینک جدید برای گروه
 create/revoke your group link
 
-!link
+!link لینک گروه
 returns group link
 
-!owner
+!owner صاحبان گروه
 returns group owner id
 
-!setowner [id]
+!setowner [id] صاحب جدید
 Will set id as owner
 
-!setflood [value]
+!setflood [value] گذاشتن حداکثر متن مثال 5
 Set [value] as flood sensitivity
 
-!stats
+!stats لیست اعضا و گروه های بات و گروه
 Simple message statistics
 
-!save [value] <text>
+!save [value] <text> ذخیره قانون و متن
 Save <text> as [value]
 
-!get [value]
+!get [value] گذاشتن قانون دائمی
 Returns text of [value]
 
-!clean [modlist|rules|about]
+!clean [modlist|rules|about] پاک کردن اعضا و قوانین و مطلب
 Will clear [modlist|rules|about] and set it to nil
 
-!res [username]
+!res [username] گرفتن پروفایل و کد کسی
 returns user id
 "!res @username"
 
-!log
+!log برگشتن به گروه
 will return group logs
 
-!banlist
+!banlist لیست اعضای بن شده
 will return group ban list
 
-**U can use both "/" and "!" 
+**U can use both "/" and "!" برای عمل کردن دستورات یکی از ! و /استفاده کنید
 
 
-*Only owner and mods can add bots in group
 
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
+برای خرید گروه به ایدی @Xx_ashi_kaboos_revale_xX
+با تشکر مدیر ربات راکس
 
 ]]
 
