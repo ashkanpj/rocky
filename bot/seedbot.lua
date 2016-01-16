@@ -341,8 +341,8 @@ will return group ban list
 
 
 
-برای خرید گروه به ایدی @Xx_ashi_kaboos_revale_xX
-با تشکر مدیر ربات راکس
+برای خرید گروه به ایدی @ashi_admin1_kaboos
+با تشکر مدیر ربات آپ بات
 
 ]]
 
